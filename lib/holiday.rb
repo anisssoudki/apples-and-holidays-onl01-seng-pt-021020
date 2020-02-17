@@ -10,8 +10,7 @@ holiday_hash.each do |supply, holiday|
   puts supply
   puts holiday
   
-  
-
+end
 end
 
 
